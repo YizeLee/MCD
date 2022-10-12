@@ -9,7 +9,7 @@
 語音點餐 Python selenium 、 speech_recognition \
 架設網站 WordPress
 
-### 改善的方法:
+### 待改進:
 麥克風容易受到環境聲音的影響，導致客人說出來的點餐名稱與接收到名稱不符。
 
 [作品頁面](https://shoparoundnet.com/MCD1/templates/index.php)
